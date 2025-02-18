@@ -26,6 +26,8 @@ header{
     background-color: white;
     width: 1000px;
     margin: auto;
+    margin-top: 25px;
+    height: 500px;
 }
 .content{
     background-color: white;
@@ -38,6 +40,7 @@ header{
     background-color: rgba(67, 146, 202, 0.885);
     color: white;
     border-radius: 5px;
+    margin-left: 18px;
 }
 .border2{
     border-style: solid;
@@ -78,7 +81,7 @@ header{
     background-color: rgb(67, 146, 202, 0.885);
     color: white;
     border-radius: 10%;
-    height: 25px;
+    height: 22px;
     width: 65px;
     text-align: center;
     vertical-align: middle;
@@ -90,11 +93,71 @@ header{
     background-color: rgb(173, 112, 199, 0.885);
     color: white;
     border-radius: 10%;
-    height: 25px;
-    width: 65px;
+    height: 22px;
+    width: 80px;
     text-align: center;
     vertical-align: middle;
 }
+.rettangolo3{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgba(112, 199, 163, 0.885);
+    background-color: rgb(112, 199, 163, 0.885);
+    color: white;
+    border-radius: 10%;
+    height: 22px;
+    width: 68px;
+    text-align: center;
+    vertical-align: middle;
+}
+.rettangolo4{
+    display: inline-block;
+    border-style: solid;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    border-radius: 10%;
+    height: 22px;
+    width: 55px;
+    text-align: center;
+    vertical-align: middle;
+}
+.rettangolo5{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(255, 0, 144);
+    background-color: rgb(255, 0, 144);
+    color: white;
+    border-radius: 10%;
+    height: 22px;
+    width: 55px;
+    text-align: center;
+    vertical-align: middle;
+}
+.rettangolo6{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(184, 214, 76);
+    background-color: rgb(184, 214, 76);
+    color: white;
+    border-radius: 10%;
+    height: 22px;
+    width: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+main{
+    padding: 2px;
+    font-family: "MHei PRC Medium";
+}
+ul{
+    margin: 10px;
+    list-style-type: none;
+}
+li{
+    margin: 10px;
+}
+
 
 
 
