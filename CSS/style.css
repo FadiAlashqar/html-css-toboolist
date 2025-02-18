@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.height{
+    height: 90px;
+}
+.v-allign{
+    vertical-align: middle;
+}
+.img-size{
+    height: 80px;
+    width: 80px;
+}
+.font-size{
+    font-size: 80px;
+}
